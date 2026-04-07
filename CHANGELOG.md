@@ -1,3 +1,9 @@
+2.1
+===
+
+* Fixed the plug-in not showing up for GIMP 3.2 or later on Windows.
+
+
 2.0
 ===
 
